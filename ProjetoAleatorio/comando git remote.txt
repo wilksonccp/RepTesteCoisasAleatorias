@@ -1,0 +1,10 @@
+- **`git remote`**: Sem argumentos, exibe uma lista dos repositórios remotos existentes.
+- **`git remote add <name> <URL>`**: Adiciona um repositório remoto com o nome especificado e a URL fornecida. Isso permite que você crie e atualize ramos de rastreamento remoto para esse repositório.
+- **`git remote rename <old> <new>`**: Renomeia um repositório remoto existente.
+- **`git remote rm <name>`**: Remove um repositório remoto.
+- **`git remote set-head <name> <branch>`**: Define ou exclui o branch padrão (ou seja, o alvo da referência simbólica `refs/remotes/<name>/HEAD`) para o repositório remoto especificado.
+- **`git remote show <name>`**: Exibe informações detalhadas sobre um repositório remoto específico.
+- **`git remote prune <name>`**: Remove ramos de rastreamento remoto que não existem mais no repositório remoto.
+
+Lembre-se de que os repositórios remotos são essenciais para colaboração em ambientes distribuídos, onde vários desenvolvedores trabalham no mesmo projeto. Eles permitem que você se conecte a repositórios (geralmente hospedados na web) e acompanhe as alterações feitas por outros colaboradores¹[1] ²[2]. Espero que isso ajude! 😊
+
