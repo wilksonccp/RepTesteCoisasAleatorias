@@ -1,0 +1,1 @@
+Criando um arquivo, e vou colocar ele fora da pasta " ProjetoAleatório" para entender o funcionamento do Git.
