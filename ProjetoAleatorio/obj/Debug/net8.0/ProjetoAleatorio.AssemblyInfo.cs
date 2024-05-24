@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoAleatorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79aa2658b127e015e5eabb960db96e532a40ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8327f1f337a3564dbb7579d10b7c3be9d8068f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoAleatorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoAleatorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
